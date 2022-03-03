@@ -1,6 +1,6 @@
 public class InstrumentTester
 {
-    public static void main(Strings[] args)
+    public static void main(String[] args)
     {
         /**
          * Don't Change This Tester Class!
